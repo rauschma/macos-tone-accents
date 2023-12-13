@@ -1,0 +1,348 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+      "key": "ctrl+shift+w",
+      "command": "editor.emmet.action.wrapWithAbbreviation"
+    },
+    // Alas, tone key bindings are a bit verbose...
+    //===== First tone =====
+    {
+      "key": "ctrl+alt+1 shift+a",
+      "command": "type",
+      "args": {
+        "text": "Ā"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 a",
+      "command": "type",
+      "args": {
+        "text": "ā"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 shift+e",
+      "command": "type",
+      "args": {
+        "text": "Ē"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 e",
+      "command": "type",
+      "args": {
+        "text": "ē"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 shift+i",
+      "command": "type",
+      "args": {
+        "text": "Ī"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 i",
+      "command": "type",
+      "args": {
+        "text": "ī"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 shift+o",
+      "command": "type",
+      "args": {
+        "text": "Ō"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 o",
+      "command": "type",
+      "args": {
+        "text": "ō"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 shift+u",
+      "command": "type",
+      "args": {
+        "text": "Ū"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 u",
+      "command": "type",
+      "args": {
+        "text": "ū"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 shift+v",
+      "command": "type",
+      "args": {
+        "text": "Ǖ"
+      }
+    },
+    {
+      "key": "ctrl+alt+1 v",
+      "command": "type",
+      "args": {
+        "text": "ǖ"
+      }
+    },
+    //===== Second tone =====
+    {
+      "key": "ctrl+alt+2 shift+a",
+      "command": "type",
+      "args": {
+        "text": "Á"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 a",
+      "command": "type",
+      "args": {
+        "text": "á"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 shift+e",
+      "command": "type",
+      "args": {
+        "text": "É"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 e",
+      "command": "type",
+      "args": {
+        "text": "é"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 shift+i",
+      "command": "type",
+      "args": {
+        "text": "Í"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 i",
+      "command": "type",
+      "args": {
+        "text": "í"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 shift+o",
+      "command": "type",
+      "args": {
+        "text": "Ó"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 o",
+      "command": "type",
+      "args": {
+        "text": "ó"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 shift+u",
+      "command": "type",
+      "args": {
+        "text": "Ú"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 u",
+      "command": "type",
+      "args": {
+        "text": "ú"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 shift+v",
+      "command": "type",
+      "args": {
+        "text": "Ǘ"
+      }
+    },
+    {
+      "key": "ctrl+alt+2 v",
+      "command": "type",
+      "args": {
+        "text": "ǘ"
+      }
+    },
+    //===== Third tone =====
+    {
+      "key": "ctrl+alt+3 shift+a",
+      "command": "type",
+      "args": {
+        "text": "Ǎ"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 a",
+      "command": "type",
+      "args": {
+        "text": "ǎ"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 shift+e",
+      "command": "type",
+      "args": {
+        "text": "Ě"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 e",
+      "command": "type",
+      "args": {
+        "text": "ě"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 shift+i",
+      "command": "type",
+      "args": {
+        "text": "Ǐ"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 i",
+      "command": "type",
+      "args": {
+        "text": "ǐ"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 shift+o",
+      "command": "type",
+      "args": {
+        "text": "Ǒ"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 o",
+      "command": "type",
+      "args": {
+        "text": "ǒ"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 shift+u",
+      "command": "type",
+      "args": {
+        "text": "Ǔ"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 u",
+      "command": "type",
+      "args": {
+        "text": "ǔ"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 shift+v",
+      "command": "type",
+      "args": {
+        "text": "Ǚ"
+      }
+    },
+    {
+      "key": "ctrl+alt+3 v",
+      "command": "type",
+      "args": {
+        "text": "ǚ"
+      }
+    },
+    //===== Forth tone =====
+    {
+      "key": "ctrl+alt+4 shift+a",
+      "command": "type",
+      "args": {
+        "text": "À"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 a",
+      "command": "type",
+      "args": {
+        "text": "à"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 shift+e",
+      "command": "type",
+      "args": {
+        "text": "È"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 e",
+      "command": "type",
+      "args": {
+        "text": "è"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 shift+i",
+      "command": "type",
+      "args": {
+        "text": "Ì"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 i",
+      "command": "type",
+      "args": {
+        "text": "ì"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 shift+o",
+      "command": "type",
+      "args": {
+        "text": "Ò"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 o",
+      "command": "type",
+      "args": {
+        "text": "ò"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 shift+u",
+      "command": "type",
+      "args": {
+        "text": "Ù"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 u",
+      "command": "type",
+      "args": {
+        "text": "ù"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 shift+v",
+      "command": "type",
+      "args": {
+        "text": "Ǜ"
+      }
+    },
+    {
+      "key": "ctrl+alt+4 v",
+      "command": "type",
+      "args": {
+        "text": "ǜ"
+      }
+    },
+  ]

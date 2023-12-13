@@ -1,0 +1,71 @@
+/* MacOS key bindings for pinyin tone accents
+
+- Path: ~/Library/KeyBindings/DefaultKeyBinding.dict
+- Restart apps to see the changes
+
+Key Modifiers:
+^ Ctrl
+$ Shift
+~ Option (Alt)
+@ Command (Apple)
+# Numeric Keypad
+*/
+
+{
+  "^~1" = {
+    "A" = (insertText:, "Ā");
+    "a" = (insertText:, "ā");
+    "E" = (insertText:, "Ē");
+    "e" = (insertText:, "ē");
+    "I" = (insertText:, "Ī");
+    "i" = (insertText:, "ī");
+    "O" = (insertText:, "Ō");
+    "o" = (insertText:, "ō");
+    "U" = (insertText:, "Ū");
+    "u" = (insertText:, "ū");
+    "V" = (insertText:, "Ǖ");
+    "v" = (insertText:, "ǖ");
+  };
+  "^~2" = {
+    "A" = (insertText:, "Á");
+    "a" = (insertText:, "á");
+    "E" = (insertText:, "É");
+    "e" = (insertText:, "é");
+    "I" = (insertText:, "Í");
+    "i" = (insertText:, "í");
+    "O" = (insertText:, "Ó");
+    "o" = (insertText:, "ó");
+    "U" = (insertText:, "Ú");
+    "u" = (insertText:, "ú");
+    "V" = (insertText:, "Ǘ");
+    "v" = (insertText:, "ǘ");
+  };
+  "^~3" = {
+    "A" = (insertText:, "Ǎ");
+    "a" = (insertText:, "ǎ");
+    "E" = (insertText:, "Ě");
+    "e" = (insertText:, "ě");
+    "I" = (insertText:, "Ǐ");
+    "i" = (insertText:, "ǐ");
+    "O" = (insertText:, "Ǒ");
+    "o" = (insertText:, "ǒ");
+    "U" = (insertText:, "Ǔ");
+    "u" = (insertText:, "ǔ");
+    "V" = (insertText:, "Ǚ");
+    "v" = (insertText:, "ǚ");
+  };
+  "^~4" = {
+    "A" = (insertText:, "À");
+    "a" = (insertText:, "à");
+    "E" = (insertText:, "È");
+    "e" = (insertText:, "è");
+    "I" = (insertText:, "Ì");
+    "i" = (insertText:, "ì");
+    "O" = (insertText:, "Ò");
+    "o" = (insertText:, "ò");
+    "U" = (insertText:, "Ù");
+    "u" = (insertText:, "ù");
+    "V" = (insertText:, "Ǜ");
+    "v" = (insertText:, "ǜ");
+  };
+}
