@@ -31,3 +31,15 @@ More information on VS Code key bindings:
 * https://code.visualstudio.com/docs/getstarted/keybindings
 * Adding entries to JSON via “Define Keybinding” lets you look up the IDs of various keys.
     * Some of these IDs are unexpected—e.g., the ID for the German “Ö” key is `[Semicolon]`.
+
+## Input source “ABC – Extended”
+
+* Go to “Settings > Keyboard > Text Input > Input Sources > Edit...”
+    * Install the input source (=keyboard layout) “English > ABC – Extended”
+    * Alas, there is no extended version for keyboard layouts other than English.
+* Now you can use:
+    * 1st tone (ā): Option-A
+    * 2nd tone (á): Option-E
+    * 3rd tone (ǎ): Option-V
+    * 4th tone (à): Option-~ (key under Esc)
+* Other ways of typing accents: https://support.apple.com/en-gb/guide/mac-help/mh27474/mac
